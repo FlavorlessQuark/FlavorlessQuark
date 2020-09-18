@@ -7,6 +7,7 @@ If you are lost, head over to the **[Mage Portal][0]** and it will see you to yo
 ### Work it harder, make it better...
 
 The assembler dwarves are currently working on **[Reinforcing the Quantum Vault][1]** in order to later upgrade its [visuals][2] and [computation][3] modules.
+
 If there is no quantum leakage, they might even start this [physics][4] module they've been thinking about for so long
 
 
