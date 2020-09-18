@@ -14,3 +14,4 @@ If there is no quantum leakage, they might even start this [physics][4] module t
 [1]: https://github.com/FlavorlessQuark/Quantum_Vault
 [2]: https://github.com/FlavorlessQuark/SDL_Tools
 [3]: https://github.com/FlavorlessQuark/Math_Tools
+[4]: https://github.com/LumenNoctis/Physics_tools
