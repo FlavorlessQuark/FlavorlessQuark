@@ -10,7 +10,8 @@ The assembler dwarves are currently working on **[Reinforcing the Quantum Vault]
 
 If there is no quantum leakage, they might even start this [physics][4] module they've been thinking about for so long.
 
-In a parallel universe, elves are catching up and gettingready for this year's **[Advent of Code][5]**
+
+In a parallel universe, elves are catching up and getting ready for this year's **[Advent of Code][5]**
 
 
 [0]: https://github.com/FlavorlessQuark/Mage_Portal
