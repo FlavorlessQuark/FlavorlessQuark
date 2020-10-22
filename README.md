@@ -2,10 +2,9 @@
 
 Greetings traveler, I see that you have found my profile.
 
-If you are lost, head over to the **[Mage Portal][0]** and it will see you to your destination.
+If you are lost, head down to the **[Mage Portal][0]** and it will see you to your destination.
 
 ![Portal](https://kirbyrunner.netlify.app/pink-portal.d5c9c189.gif)
-
 
 ### Work it harder, make it better...
 
