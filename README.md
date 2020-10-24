@@ -10,7 +10,7 @@ __About:__
 
 <br> <img align="right" src="smallportal.gif"/><br>
 
-If you are lost, head through to the **[Mage Portal][0]** for an overview of what I have been working on
+If you are lost, head through to the **[Mage Portal][0]** for an overview and brief description of what I have been working on 
 
 ### Work it harder, make it better...
 
