@@ -12,18 +12,11 @@ If you are lost, head through to the **[Mage Portal][0]** for an overview and br
 
 All of the repos on the repository tab are mostly Misc | General projects , such a librairies or coding problems.For actual projects see :
 
-- **[Games and dragons][8]** Mostly small games and graphics based projects.A little bit of a sandbox in that regard
+- **[Games and dragons][8]**: Mostly small games and graphics based projects.A little bit of a sandbox in that regard
 
-- **[Sigma][10]** Intended for those more"serious" projects. Maybe some ML in the future...
+- **[Sigma][10]**: Intended for those more"serious" projects. Maybe some ML in the future...
 
-- **[42 projects][9]** Projects I completed during my time at 42. 
-
-
-### Work it harder, make it better...
-
- - The assembler dwarves are currently working on **[Reinforcing the Quantum Vault][1]** in order to later upgrade its [visual][2] and [computation][3] modules.
-
- - In a parallel universe, elves are catching up and getting ready for this year's **[Advent of Code][5]** :star2:
+- **[42 projects][9]**: Projects I completed during my time at 42. 
 
 [0]: https://github.com/FlavorlessQuark/Mage_Portal
 [1]: https://github.com/FlavorlessQuark/Quantum_Vault
