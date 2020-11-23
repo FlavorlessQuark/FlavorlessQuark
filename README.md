@@ -4,7 +4,7 @@ Greetings traveler, I see that you have found my profile.
 
 ## __About:__
 
-*I have mostly been programming in* **[C][6]** *with a little bit of Python and C++ here and there.*
+*I have mostly been programming in* **[C][6]** *and Python and some C++ here and there.*
 
 *If you want to know more about things I think while coding or what I'm currently doing, you are welcome to look at the* **[Task_Manager][4]** *or peer through the* **[Black_Hole][7]**
 <br> <img align="right" src="smallportal.gif"/><br>
