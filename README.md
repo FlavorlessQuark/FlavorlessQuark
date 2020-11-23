@@ -1,16 +1,10 @@
 # May the Code be with you, Always.
 
-Greetings traveler, I see that you have found my profile.
-
-## __About:__
-
 *I have mostly been programming in* **[C][6]** *and Python and some C++ here and there.*
 
-*If you want to know more about things I think while coding or what I'm currently doing, you are welcome to look at the* **[Task_Manager][4]** *or peer through the* **[Black_Hole][7]**
-<br> <img align="right" src="smallportal.gif"/><br>
-If you are lost, head through to the **[Mage Portal][0]** for an overview and brief description of what I have been working on 
+**[Mage Portal][0]** for an overview and brief description of what I have been working on 
 
-All of the repos on the repository tab are mostly Misc | General projects , such a librairies or coding problems.For actual projects see :
+All of the repos on the repository tab are mostly Misc | General projects , such a librairies or coding problems. For actual projects see :
 
 - **[Games and dragons][8]**: Mostly small games and graphics based projects.A little bit of a sandbox in that regard
 
