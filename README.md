@@ -6,7 +6,7 @@
 
 All of the repos on the repository tab are mostly Misc | General projects , such a librairies or coding problems. For actual projects see :
 
-- **[Games and dragons][8]**: Mostly small games and graphics based projects.A little bit of a sandbox in that regard
+- **[Compute Progress][8]**: Mostly small games and graphics based projects.A little bit of a sandbox in that regard.
 
 - **[Sigma][10]**: Intended for those more"serious" projects. Maybe some ML in the future...
 
@@ -20,6 +20,6 @@ All of the repos on the repository tab are mostly Misc | General projects , such
 [4]: https://github.com/FlavorlessQuark/Task_Manager
 [6]: https://github.com/FlavorlessQuark/C
 [7]: https://github.com/FlavorlessQuark/Black_Hole
-[8]: https://github.com/Games-and-dragons
+[8]: https://github.com/Compute-Progress
 [9]: https://github.com/42Curriculum
 [10]: https://github.com/LumenNoctis
