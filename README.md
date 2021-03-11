@@ -1,6 +1,6 @@
 # Heart of the Code
 
-<br> <img align="right" src="Ressources/Self.png"/><\br>
+<br><img align="left" src="Ressources/Self.png"/><br>
 
 ## Don't get lost~
 
@@ -20,7 +20,8 @@ My code is separated in 4 categories:
 
 ## Current Projects
 
-<br> <img align="left" src="Ressources/Self.png"/><\br>
+<br><img align="right" src="Ressources/Envs.png"/><br>
+-----------
 
 - **[RayMarcher]**[0] : Coding a raymarcher in C, entrely from scratch, as I am exploring different rending techniques;
 
@@ -28,4 +29,6 @@ My code is separated in 4 categories:
 
 - **[Fractal]**[2] : Cue the Julia set
 
-<br> <img align="right" src="Ressources/Tools.png"/><\br>
+-------
+
+<br><img align="left" src="Ressources/Tools.png" width="1000" height="140"/><br>
