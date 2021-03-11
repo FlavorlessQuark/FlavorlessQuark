@@ -1,13 +1,12 @@
 # How well, not How much
 
-<br><img align="left" src="Ressources/Self.png"  width="600"/><br>
-
 ## Don't get lost~
 
 
 Don't know where to go from here? Go over to the **[Mage_Portal][1]** for a list of all my fantastic projects and where to find them;
 
-----
+<br><img align="left" src="Ressources/Self.png"  width="600"/><br>
+
 # Heart of the Code
 
 My code is separated in 4 categories:
