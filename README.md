@@ -9,11 +9,11 @@ Don't know where to go from here? Go over to the **[Mage_Portal][1]** for a list
 
 # Heart of the Code
 
-- **[Repositories][2]**     | Here are mostly tools, coding problems / contests and everything of the likes;
+- **[Repositories][2]**     | Tools, coding problems / contests and everything of the likes;
 
-- **[Sigma][3]**            | There lives most of the bigger projects such as rendering engines, simulations and anything involving triangles;
+- **[Sigma][3]**            | Bigger projects such as rendering engines, simulations and anything involving triangles;
 
-- **[Compute-Progress][4]** | Sandbox projects and small games to assess current skill and try new things;
+- **[Compute-Progress][4]** | Sandbox projects and small games to try new things;
  
 - **[42Curriculum][5]**     | Projects I completed during my time in 42 SiliconValley / 42Paris;
 
