@@ -20,7 +20,7 @@ Don't know where to go from here? Go over to the **[Mage_Portal][1]** for a list
 
 ## Current Projects
 
-<br><img align="right" src="Ressources/Envs.png" height="300"/><br>
+<br><img align="right" src="Ressources/Envs.png"/><br>
 
 - **[RayMarcher][6]** : Coding a raymarcher in C, entirely from scratch, as I am exploring different rending techniques;
 
