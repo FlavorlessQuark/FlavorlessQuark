@@ -1,6 +1,4 @@
-# How well, not How much 
-
-### (You should really view this in dark mode)
+# How well, not How much
 
 <br><img align="left" src="Ressources/Self.png"  width="600"/><br>
 
