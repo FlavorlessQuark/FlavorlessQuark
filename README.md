@@ -11,6 +11,7 @@ Go over to the **[Mage_Portal][1]**
 
 for a list of all my fantastic projects and where to find them.
 
+----
 # Heart of the Code
 
 My code is separated in 4 categories:
