@@ -1,6 +1,6 @@
 # How well, not How much
 
-## Don't get lost~
+## Don't get lost - you also probably want to be useing dark mode -
 
 
 Don't know where to go from here? Go over to the **[Mage_Portal][1]** for a list of all my fantastic projects and where to find them;
