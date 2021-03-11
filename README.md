@@ -5,11 +5,7 @@
 ## Don't get lost~
 
 
-Don't know where to go from here?
-
-Go over to the **[Mage_Portal][1]** 
-
-for a list of all my fantastic projects and where to find them;
+Don't know where to go from here? Go over to the **[Mage_Portal][1]** for a list of all my fantastic projects and where to find them;
 
 ----
 # Heart of the Code
