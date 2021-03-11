@@ -21,12 +21,14 @@ My code is separated in 4 categories:
 ## Current Projects
 
 <br><img align="right" src="Ressources/Envs.png"/><br>
-
+-----------
 
 - **[RayMarcher]**[0] : Coding a raymarcher in C, entrely from scratch, as I am exploring different rending techniques;
 
 - **[SDLX]**[1] : A wrapper for SDL2; Constantly updating this library with more and more tools.Feel free to open issues and let me know what you think I should add to it!.
 
 - **[Fractal]**[2] : Cue the Julia set
+
+-------
 
 <br><img align="left" src="Ressources/Tools.png" width="1000" height="140"/><br>
