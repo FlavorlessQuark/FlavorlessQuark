@@ -1,25 +1,31 @@
-# May the Code be with you, Always.
+# Heart of the Code
 
-*I have mostly been programming in* **[C][6]** *and Python and some C++ here and there.*
+<br> <img align="right" src="Ressources/Self.png"/><\br>
 
-**[Mage Portal][0]** for an overview and brief description of what I have been working on 
+## Don't get lost~
 
-All of the repos on the repository tab are mostly Misc | General projects , such a librairies or coding problems. For actual projects see :
+Don't know where to go from here?
 
-- **[Compute Progress][8]**: Mostly small games and graphics based projects.A little bit of a sandbox in that regard.
+Go over to the **[Mage_Portal]**[3] for a list of all my fantastic projects and where to find them.
 
-- **[Sigma][10]**: Intended for those more"serious" projects. Maybe some ML in the future...
+My code is separated in 4 categories:
 
-- **[42 projects][9]**: Projects I completed during my time at 42. 
+- **[Repositories]**[4] | Here are mostly tools, coding problems /contests and everything of the likes
 
-[0]: https://github.com/FlavorlessQuark/Mage_Portal
-[1]: https://github.com/FlavorlessQuark/Quantum_Vault
-[2]: https://github.com/FlavorlessQuark/SDL_Tools
-[3]: https://github.com/FlavorlessQuark/Math_Tools
-[5]: https://github.com/FlavorlessQuark/Advent_of_Code
-[4]: https://github.com/FlavorlessQuark/Task_Manager
-[6]: https://github.com/FlavorlessQuark/C
-[7]: https://github.com/FlavorlessQuark/Black_Hole
-[8]: https://github.com/Compute-Progress
-[9]: https://github.com/42Curriculum
-[10]: https://github.com/LumenNoctis
+- **[Sigma]**[5] | There lives most of the bigger projects such a rendering engines, simulations and anything involving triangles
+
+- **[Compute-Progress]**[6] | Sandbox projects and small games to asses current skill and try new things
+
+- **[42Curriculum]**[7] | Projects I complete during my time in 42 SiliconValley / 42Paris
+
+## Current Projects
+
+<br> <img align="left" src="Ressources/Self.png"/><\br>
+
+- **[RayMarcher]**[0] : Coding a raymarcher in C, entrely from scratch, as I am exploring different rending techniques;
+
+- **[SDLX]**[1] : A wrapper for SDL2; Constantly updating this library with more and more tools.Feel free to open issues and let me know what you think I should add to it!.
+
+- **[Fractal]**[2] : Cue the Julia set
+
+<br> <img align="right" src="Ressources/Tools.png"/><\br>
